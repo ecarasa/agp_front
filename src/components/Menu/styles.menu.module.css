@@ -1,0 +1,80 @@
+.menucomponent-container {
+    background: #3761ed;
+    margin-top: 10px;
+    height: auto;
+    border-radius: 25px;
+    justify-content: center;
+    overflow: auto;
+    padding: 32px;
+}
+
+.menucomponent-container-side div {
+    margin: 0 3px;
+}
+.menucomponent-container div:nth-child(2) {
+    margin-left: 80px;
+}
+
+.menucomponent-container-side div:nth-child(2) {
+    margin-left: 38px;
+}
+
+.grouper-title {
+    margin-left: 20px;
+    text-transform: lowercase;
+}
+
+.grouper-header {
+    height: 42px;
+    justify-content: space-between;
+}
+
+.collapsed-items-menu {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.grouper-header div,
+.grouper-header-side div {
+    display: flex;
+    align-items: center;
+}
+
+.grouper-header svg {
+    font-size: 36px;
+}
+
+.grouper-header-side svg {
+    font-size: 25px;
+}
+
+.grouper-header-side {
+    min-height: 58px;
+    justify-content: space-between;
+}
+
+.grouper-header div span,
+.grouper-header-side div span {
+    margin-left: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .menucomponent-container {
+        padding: 16px;
+    }
+
+    .menucomponent-container div:nth-child(2) {
+        margin-left: 45px;
+    }
+    .grouper-header-side {
+        min-height: 58px;
+    }
+
+    .menucomponent-container-side div:nth-child(2) {
+        margin-left: 45px;
+    }
+}

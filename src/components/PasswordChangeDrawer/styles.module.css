@@ -1,0 +1,8 @@
+.pc-dialog-title {
+    color: var(--white);
+    font-size: 22px;
+    font-weight: 800;
+    padding: 16px;
+    background: var(--primary);
+    border-bottom: 2px solid #87ceeb;
+}

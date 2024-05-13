@@ -1,0 +1,100 @@
+.formElement div:nth-child(2) {
+    border-radius: 10px;
+}
+
+.formElement p {
+    padding: 5px;
+}
+
+.btnSubmit {
+    border-radius: 20px;
+    height: 42px;
+}
+
+.btnText {
+    text-transform: capitalize;
+    text-decoration: underline;
+    width: auto;
+    color: var(--black);
+    justify-content: end;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.loginFormContainer {
+    text-align: center;
+    min-width: 270px;
+    display: initial;
+}
+
+.paperContainer {
+    justify-content: center;
+    display: inline-flex;
+    box-shadow: none;
+    padding: 32px;
+    width: 100%;
+}
+
+.newPasswordStyle p {
+    width: 80%;
+    display: inline-flex;
+    justify-content: space-around;
+    padding: 0;
+    font-size: 13px;
+}
+
+.btnTextContainer {
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
+@media only screen and (max-width: 600px) {
+    .btnSubmit,
+    .btnTextContainer,
+    .formElement {
+        width: 100%;
+    }
+    .logoDoble {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .loginFormContainer {
+        padding: 16px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) -sm/md-*/
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 900px and up) -md- */
+@media only screen and (min-width: 900px) {
+    .formElement,
+    .logoDoble,
+    .btnTextContainer,
+    .btnSubmit {
+        width: 85%;
+    }
+    .loginFormContainer {
+        width: 35%;
+        padding: 32px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) -lg-*/
+@media only screen and (min-width: 1200px) {
+}
+
+/* Small devices (portrait tablets and large phones, 600px and 900px) */
+@media only screen and (min-width: 600px) and (max-width: 899px) {
+    .formElement,
+    .logoDoble,
+    .btnSubmit,
+    .btnTextContainer {
+        width: 60%;
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Alta de Usuario",
+    "subtitulo1": "Datos Personales",
+    "subtitulo2": "Asignaciones",
+    "password": "Contraseña",
+    "continue": "Continuar",
+    "confirm": "Enviar",
+    "user": "Usuario",
+    "name": "Nombre",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "accept": "Aceptar",
+    "cancel": "Cancelar",
+    "lname": "Apellido",
+    "idUser": "N° de Documento",
+    "nacimiento": "Fecha de Nacimiento",
+    "mail": "Mail",
+    "phone": "Teléfono",
+    "company": "Empresa",
+    "userRol": "Rol de Usuario",
+    "userButton": "Crear Usuario",
+    "forgotPassword": "Olvidé mi contraseña",
+    "confirmUser": "Confirmar usuario",
+    "loginUser": "Iniciar Sesión",
+    "incorrectPassword": "Contraseña incorrecta",
+    "incorrectUser": "Usuario incorrecto",
+    "error": "Debes completar los campos obligatorios",
+    "verificationCode": "Código de verificación",
+    "passwordConfirm": "Confirmar contraseña",
+    "incorrectCode": "Código incorrecto",
+    "exit": "Salir",
+    "goBack": "Volver",
+    "number": "Número",
+    "score": "Puntaje",
+    "restorePassword": "Restablecer contraseña",
+    "empresa": {
+        "add": {
+            "title": "Alta de Empresa",
+            "subtitulo1": "Datos de la Empresa",
+            "name": "Nombre Empresa",
+            "nameComercial": "Nombre Comercial",
+            "idFiscal": "Identificación Fiscal",
+            "categoriafiscal": "Categoria Fiscal",
+            "domicilio": "Domicilio",
+            "pais": "País",
+            "ciudad": "Ciudad",
+            "mail": "Mail",
+            "phone": "Teléfono",
+            "perfil": "Perfil Empresa",
+            "perfilAsignado": "Perfiles Asignados",
+            "btnCaption": "Agregar Empresa"
+        }
+    },
+    "mUsers": {
+        "title": "Gestión de Usuarios",
+        "btonNewUser": "Nuevo Usuario"
+    },
+    "mEmpresas": {
+        "title": "Gestión de Empresas",
+        "btonNewEmpresa": "Nueva Empresa"
+    },
+    "cardOk": {
+        "title": "Usuario creado exitosamente",
+        "subtitle": "Se enviará un email al correo registrado informando al usuario de su alta."
+    },
+    "buquesCertificates": {
+        "certificate": "Certificado",
+        "title": "Asignación de Certificados",
+        "deleteButton": "Eliminar",
+        "assignCertificate": "Asignar certificados",
+        "deleteCertificateTitle": "Eliminar certificado",
+        "confirmDeleteCertificate": "¿Está seguro que quiere eliminar el certificado?",
+        "tableSpanHeader": "Certificados obligatorios subidos"
+    },
+    "buques": {
+        "imoApply": "No aplica"
+    },
+    "filtrosToolbar": {
+        "filter": "Filtros"
+    },
+    "consultaBuques": {
+        "button": "Nuevo Buque",
+        "title": "Gestión de Buques"
+    },
+    "noinfo": "No se pudo cargar la información.",
+    "noItems": "No se encontraron resultados.",
+    "giros": {
+        "title": "Gestión de Giros",
+        "button": "Solicitud de Atraque",
+        "titleCard": "Historial de Conversación"
+    },
+    "of": "de",
+    "dockingDetail": {
+        "title": "Detalle de giro"
+    },
+    "blockchain": {
+        "blk-close": "Cerrar",
+        "blk-caption": "DATOS BLOCKCHAIN",
+        "blk-status": "Datos Sin Chequear",
+        "blk-status-ok": "Datos chequeados",
+        "blk-status-error": "¡Algo salió mal!",
+        "blk-status-checked-not-valid": "Datos no coincidentes",
+        "blk-status-checked-ok": "Datos Chequeados correctamente",
+        "blk-status-checked-error": "Hubo problemas con la validación",
+        "blk-dowload-pdf-caption": "Descargar Pdf",
+        "blk-verifying": "Verificando datos de Blockchain..."
+    }
+}

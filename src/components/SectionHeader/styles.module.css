@@ -1,0 +1,59 @@
+.header-container {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.header-container h1 {
+    font-size: 27px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.title::before {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 30px;
+    object-fit: contain;
+    background-color: blue;
+    margin-left: -8px;
+    margin-top: 6px;
+}
+
+.header-container h3 {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
+.drawertitle::before {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 23px;
+    object-fit: contain;
+    background-color: blue;
+    margin-left: -8px;
+    margin-top: 6px;
+}
+
+.header-back-btn button {
+    padding: 3px 4px;
+    width: 100px;
+    margin: 8px 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-container h1 {
+        font-size: 23px;
+    }
+
+    .title::before {
+        height: 23px;
+    }
+}

@@ -1,0 +1,25 @@
+.button-agp div {
+    align-items: center;
+    display: flex;
+    margin-left: 15px;
+}
+
+.button-agp div span {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.button-agp-strong {
+    border-width: 2px;
+    font-weight: 600;
+}
+
+.button-agp-strong:disabled {
+    border-color: transparent;
+}
+
+.button-agp-strong:hover {
+    border-width: 2px;
+    font-weight: 900;
+    /* transform: scale(1.05); */
+}

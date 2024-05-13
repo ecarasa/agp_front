@@ -1,0 +1,36 @@
+/* .patent-navi-card {
+    cursor: pointer;
+} */
+
+.patent-navi-card:hover {
+    background: #3761ed;
+    color: var(--white);
+}
+
+.header-alert {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    max-height: 60px;
+    border-radius: 5px;
+    background: #6837ed;
+}
+
+.operations-log-button {
+    align-items: center;
+    display: flex;
+}
+
+.operations-log-button button {
+    color: var(--white);
+}
+
+.operations-log-button:not(:hover) button {
+    color: var(--black);
+}
+
+.add-operation-button button {
+    margin-top: 32px;
+    text-transform: uppercase;
+    font-weight: 600;
+}

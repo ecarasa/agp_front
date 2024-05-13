@@ -1,0 +1,79 @@
+.datatable tr:hover {
+    background-color: #cdd8fb;
+}
+
+.datatable-rows {
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    max-height: 68px;
+    height: 68px;
+    width: 100%;
+}
+
+.datatable-rows td:first-child {
+    padding-left: 5px;
+}
+
+.datatable-rows td table tbody tr td {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.datatable tr td button:last-child:hover {
+    background-color: #fff;
+}
+
+.datatable-tr-td-overflow {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.datatable-tbody {
+    font-size: 14px;
+}
+
+.element {
+    text-align: center;
+}
+
+.table-tbody-align-right {
+    display: inline-grid;
+}
+
+.table-tbody-align-right tr {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.table-tbody-align-left tr {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.table-tbody-align-right tr td {
+    padding: 0 5px;
+}
+
+.table-tbody-align-right tr td:nth-child(2),
+.table-tbody-align tr td:first-child,
+.datatable-subtable tr:first-child td {
+    font-weight: 700;
+}
+
+.datatable-subtable {
+    width: 100%;
+    table-layout: fixed;
+    min-width: 125px;
+}
+
+.iconbtn-m {
+    margin: 3px 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .datatable-rows td table tbody tr td {
+        font-size: 12px;
+    }
+}

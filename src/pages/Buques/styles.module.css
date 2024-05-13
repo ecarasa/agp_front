@@ -1,0 +1,13 @@
+.collapseTitle p {
+    font-size: 18px;
+}
+
+.collapseTitle p::before {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 27px;
+    object-fit: contain;
+    background-color: blue;
+    margin-left: -12px;
+}

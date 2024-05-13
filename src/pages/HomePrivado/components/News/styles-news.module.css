@@ -1,0 +1,44 @@
+.flex-right {
+    display: flex;
+    justify-content: right;
+    padding-right: 27px;
+}
+
+p,
+h3 {
+    display: -webkit-box;
+    /* -webkit-line-clamp: 3; */
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+}
+
+.card-date-time {
+    font-size: 13px;
+}
+
+.banner-container {
+    height: 300px;
+    position: relative;
+}
+.banner-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-container {
+    max-width: 345px;
+    min-height: 320px;
+    max-height: 320px;
+    border-radius: 12px;
+}
+
+.news-detail-container {
+    background-image: url('../../../../assets/image/puerto-banner.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}

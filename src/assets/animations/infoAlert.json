@@ -1,0 +1,195 @@
+{
+    "v": "4.8.0",
+    "meta": { "g": "LottieFiles AE 1.0.0", "a": "", "k": "", "d": "", "tc": "" },
+    "fr": 29.9700012207031,
+    "ip": 0,
+    "op": 151.000006150356,
+    "w": 206,
+    "h": 210,
+    "nm": "info 2",
+    "ddd": 0,
+    "assets": [
+        {
+            "id": "image_0",
+            "w": 21,
+            "h": 21,
+            "u": "",
+            "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAAAxUlEQVQ4jdWUQRHDIBBF/6IgEiqhEnDQSoiUSIkEJERCJGwdUAW/B0oPJKRk2B76TgzMPpZlQVCB5BXAHYAvlhTAAiCISKzFb2QkF34nkpxahGODrGQhOVgKM+tGzHTkXkIpbalhC94yy0wAAIfUNlbcstQbSkHSO0thxgG4/EKq/yBVh/Q5WPEQEXUAAoCnkXT+jEhOBo0fufP+106p3+RNcugQj9WCvMXzCVnczbAi9yTDgUyZ7mH3c5aWDYopFRE9inkB7PLLy32zNsIAAAAASUVORK5CYII=",
+            "e": 1
+        },
+        {
+            "id": "image_1",
+            "w": 21,
+            "h": 61,
+            "u": "",
+            "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAA9CAYAAABC6CLNAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAAA5ElEQVRYhe3YQRGDMBAF0L9RgIRKqIQ4aCVUChIqAQlIQEIlpA6ogt9DoNMJBAJdLp39JwbIy5Lh9AWZkDwDuALwyaMAoAPQikifWz/BSHZcT0+yLgFvw8tb0pGslsC9eUxgxk/eOmGaJkVLzrAk/ntKrbQA4BB/G61cRtQroiDpnSY4xgE4HYGGI1D1GGqooYYaaqihhhpqqKGG/jkalM3gEEsWrTxFJDgALYCXEtp8rkjWCgVCz5ke5dfKw0/mJlkxtjZ7csseyADfN2BhdsIM7km2K1jNTMklJRskt4KIhKU1b3z6y73NDG3rAAAAAElFTkSuQmCC",
+            "e": 1
+        },
+        {
+            "id": "image_2",
+            "w": 201,
+            "h": 201,
+            "u": "",
+            "p": "data:image/png;base64,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",
+            "e": 1
+        }
+    ],
+    "layers": [
+        {
+            "ddd": 0,
+            "ind": 1,
+            "ty": 2,
+            "nm": "punto/info.ai",
+            "cl": "ai",
+            "refId": "image_0",
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": 0.833, "y": 0.833 },
+                            "o": { "x": 0.333, "y": 0 },
+                            "t": 0,
+                            "s": [103, 19, 0],
+                            "to": [0, 8.667, 0],
+                            "ti": [0, -8.667, 0]
+                        },
+                        { "t": 18.000000733155, "s": [103, 71, 0] }
+                    ],
+                    "ix": 2,
+                    "x": "var $bm_rt;\nvar amp, freq, decay, n, time_max, n, t, t, v;\namp = 0.3;\nfreq = 1;\ndecay = 1;\nn = 0;\n$bm_rt = time_max = 5;\nif (numKeys > 0) {\n    $bm_rt = n = nearestKey(time).index;\n    if (key(n).time > time) {\n        n--;\n    }\n}\nif (n == 0) {\n    $bm_rt = t = 0;\n} else {\n    $bm_rt = t = $bm_sub(time, key(n).time);\n}\nif (n > 0 && t < time_max) {\n    v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n    $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n} else {\n    $bm_rt = value;\n}"
+                },
+                "a": { "a": 0, "k": [10.5, 10.5, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "ip": 0,
+            "op": 150.000006109625,
+            "st": 0,
+            "bm": 0
+        },
+        {
+            "ddd": 0,
+            "ind": 2,
+            "ty": 2,
+            "nm": "barrita/info.ai",
+            "cl": "ai",
+            "refId": "image_1",
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [103, 159.25, 0], "ix": 2 },
+                "a": { "a": 0, "k": [10.5, 59.75, 0], "ix": 1 },
+                "s": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": [0.833, 0.833, 0.833], "y": [0.833, 0.833, 1] },
+                            "o": { "x": [0.333, 0.333, 0.333], "y": [0, 0, 0] },
+                            "t": 23,
+                            "s": [100, 100, 100]
+                        },
+                        {
+                            "i": { "x": [0.833, 0.833, 0.833], "y": [0.833, 0.833, 1] },
+                            "o": { "x": [0.333, 0.333, 0.333], "y": [0, 0, 0] },
+                            "t": 24,
+                            "s": [122, 98, 100]
+                        },
+                        { "t": 26.0000010590017, "s": [100, 100, 100] }
+                    ],
+                    "ix": 6
+                }
+            },
+            "ao": 0,
+            "ef": [
+                {
+                    "ty": 34,
+                    "nm": "Puppet",
+                    "np": 6,
+                    "mn": "ADBE FreePin3",
+                    "ix": 1,
+                    "en": 1,
+                    "ef": [
+                        {
+                            "ty": 7,
+                            "nm": "Puppet Engine",
+                            "mn": "ADBE FreePin3 Puppet Engine",
+                            "ix": 1,
+                            "v": { "a": 0, "k": 2, "ix": 1 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Mesh Rotation Refinement",
+                            "mn": "ADBE FreePin3 Auto Rotate Pins",
+                            "ix": 2,
+                            "v": { "a": 0, "k": 20, "ix": 2 }
+                        },
+                        {
+                            "ty": 7,
+                            "nm": "On Transparent",
+                            "mn": "ADBE FreePin3 On Transparent",
+                            "ix": 3,
+                            "v": { "a": 0, "k": 0, "ix": 3 }
+                        },
+                        {
+                            "ty": 29.9700012207031,
+                            "nm": "arap",
+                            "np": 3,
+                            "mn": "ADBE FreePin3 ARAP Group",
+                            "ix": 4,
+                            "en": 1,
+                            "ef": [
+                                {
+                                    "ty": 6,
+                                    "nm": "Auto-traced Shapes",
+                                    "mn": "ADBE FreePin3 Outlines",
+                                    "ix": 1,
+                                    "v": 0
+                                },
+                                {
+                                    "ty": 1,
+                                    "nm": "Mesh",
+                                    "np": 1,
+                                    "mn": "ADBE FreePin3 Mesh Group",
+                                    "ix": 2,
+                                    "en": 1,
+                                    "ef": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "ip": 0,
+            "op": 150.000006109625,
+            "st": 0,
+            "bm": 0
+        },
+        {
+            "ddd": 0,
+            "ind": 3,
+            "ty": 2,
+            "nm": "cicruclo/info.ai",
+            "cl": "ai",
+            "refId": "image_2",
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [103, 105, 0], "ix": 2 },
+                "a": { "a": 0, "k": [100.5, 100.5, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "ip": 0,
+            "op": 150.000006109625,
+            "st": 0,
+            "bm": 0
+        }
+    ],
+    "markers": []
+}
